@@ -1,0 +1,17 @@
+img {
+    width:500px;
+    border-radius: 16%;
+}
+
+body {
+    background-color:darkturquoise
+}
+
+button {
+    background-color: dodgerblue;
+    color: darkslategray;
+}
+
+.text-pol {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

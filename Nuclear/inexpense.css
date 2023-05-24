@@ -1,0 +1,18 @@
+img {
+    width: 500px;
+    border-radius: 10%;
+}
+
+body {
+    background-color: darkgreen;
+}
+
+.text-inex {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    color:cornflowerblue;
+    background-color: darkcyan;
+}

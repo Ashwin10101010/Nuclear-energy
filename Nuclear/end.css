@@ -1,0 +1,17 @@
+img {
+    width:500px;
+    border-radius: 29%;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+button {
+    color: aqua;
+    background-color: black;
+}
+
+h1 {
+    font-family:'Courier New', Courier, monospace;
+}

@@ -1,0 +1,18 @@
+img {
+    width:500px;
+    border-radius: 13%;
+}
+
+body {
+    background-color:lightblue;
+
+}
+
+button {
+    color:black;
+    background-color: blue;
+}
+
+.text-hea {
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,18 @@
+img {
+    width:500px;
+    border-radius: 16%;
+}
+
+body {
+    background-color: firebrick;
+}
+
+button {
+    background-color: darkcyan;
+    color:black
+}
+
+.text-ple {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}

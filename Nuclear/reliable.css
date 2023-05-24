@@ -1,0 +1,17 @@
+img {
+    border-radius: 12%;
+    width:600px
+}
+
+body {
+    background-color:yellow
+}
+
+button {
+    color: yellow;
+    background-color: black;
+}
+
+.text-rle {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

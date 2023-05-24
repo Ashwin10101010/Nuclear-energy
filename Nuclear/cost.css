@@ -1,0 +1,25 @@
+img {
+    width:500px;
+    border-radius: 12%;
+}
+
+#img-1 {
+    margin-left:50% ;
+}
+
+#img-2 {
+    margin-right:50% ;
+}
+
+.text-cost {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: goldenrod;
+}
+
+button {
+    color:gold;
+    background-color: black;
+}

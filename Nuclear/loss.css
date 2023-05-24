@@ -1,0 +1,17 @@
+img {
+    width: 500px;
+    border-radius: 23%;
+}
+
+body {
+    background-color:darksalmon;
+}
+
+button {
+    color: darksalmon;
+    background-color: darkcyan;
+}
+
+.text-los {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

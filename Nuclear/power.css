@@ -1,0 +1,17 @@
+img {
+    border-radius: 19%;
+    width: 500px;
+}
+
+body {
+    background-color: deepskyblue;
+}
+
+button {
+    background-color: brown;
+    color: aliceblue;
+}
+
+.text-pow {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

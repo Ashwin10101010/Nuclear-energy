@@ -1,0 +1,16 @@
+.img {
+    width:500px;
+    border-radius: 9%;
+}
+
+body {
+    background-color: greenyellow;
+}
+
+button {
+    color: royalblue
+}
+
+.text-exp {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
